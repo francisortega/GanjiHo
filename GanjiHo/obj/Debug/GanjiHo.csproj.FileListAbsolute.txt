@@ -1,0 +1,27 @@
+E:\C#\GanjiHo\GanjiHo\bin\Debug\GanjiHo.exe.config
+E:\C#\GanjiHo\GanjiHo\bin\Debug\GanjiHo.exe
+E:\C#\GanjiHo\GanjiHo\bin\Debug\GanjiHo.pdb
+E:\C#\GanjiHo\GanjiHo\obj\Debug\GanjiHo.csprojResolveAssemblyReference.cache
+E:\C#\GanjiHo\GanjiHo\obj\Debug\GanjiHo.exe
+E:\C#\GanjiHo\GanjiHo\obj\Debug\GanjiHo.pdb
+G:\My Documents\COMP472\GanjiHo\GanjiHo\bin\Debug\GanjiHo.exe.config
+G:\My Documents\COMP472\GanjiHo\GanjiHo\obj\Debug\GanjiHo.exe
+G:\My Documents\COMP472\GanjiHo\GanjiHo\obj\Debug\GanjiHo.pdb
+G:\My Documents\COMP472\GanjiHo\GanjiHo\bin\Debug\GanjiHo.exe
+G:\My Documents\COMP472\GanjiHo\GanjiHo\bin\Debug\GanjiHo.pdb
+G:\My Documents\COMP472\GanjiHo\GanjiHo\obj\Debug\GanjiHo.csprojResolveAssemblyReference.cache
+F:\COMP472\GanjiHo\GanjiHo\bin\Debug\GanjiHo.exe.config
+F:\COMP472\GanjiHo\GanjiHo\obj\Debug\GanjiHo.exe
+F:\COMP472\GanjiHo\GanjiHo\obj\Debug\GanjiHo.pdb
+F:\COMP472\GanjiHo\GanjiHo\bin\Debug\GanjiHo.exe
+F:\COMP472\GanjiHo\GanjiHo\bin\Debug\GanjiHo.pdb
+F:\COMP472\GanjiHo\GanjiHo\obj\Debug\GanjiHo.csprojResolveAssemblyReference.cache
+E:\COMP472\GanjiHo\GanjiHo\bin\Debug\GanjiHo.exe.config
+E:\COMP472\GanjiHo\GanjiHo\obj\Debug\GanjiHo.exe
+E:\COMP472\GanjiHo\GanjiHo\obj\Debug\GanjiHo.pdb
+C:\Users\francis\Documents\GanjiHo\GanjiHo\GanjiHo\bin\Debug\GanjiHo.exe.config
+C:\Users\francis\Documents\GanjiHo\GanjiHo\GanjiHo\obj\Debug\GanjiHo.exe
+C:\Users\francis\Documents\GanjiHo\GanjiHo\GanjiHo\obj\Debug\GanjiHo.pdb
+C:\Users\francis\Documents\GanjiHo\GanjiHo\GanjiHo\bin\Debug\GanjiHo.exe
+C:\Users\francis\Documents\GanjiHo\GanjiHo\GanjiHo\bin\Debug\GanjiHo.pdb
+C:\Users\francis\Documents\GanjiHo\GanjiHo\GanjiHo\obj\Debug\GanjiHo.csprojResolveAssemblyReference.cache
